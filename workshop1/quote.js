@@ -4,11 +4,11 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
+var things = ["dance", "home", "though", "mad libs", "ted cruz", "Arendt"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var castles = ["love", "yet", "bitches"]
+var exertions = ["effort", "strain", "struggle"];
+var airs = ["computor", "atmosphere", "heavens"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);
