@@ -6,8 +6,8 @@
 
 var things = ["dance", "home", "though", "mad libs", "ted cruz", "Arendt"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["love", "yet", "bitches"]
-var exertions = ["effort", "strain", "struggle"];
+var castles = ["love", "ted cruz", "bitches"]
+var exertions = ["effort", "ted cruz", "struggle"];
 var airs = ["computor", "atmosphere", "heavens"];
 
 function choosei(lst){
