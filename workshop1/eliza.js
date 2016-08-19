@@ -29,27 +29,27 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "How are you Ted Cruz."
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
+    "We worry about Ted Cruz?",
     "Don't you think computers can help people",
-    "Why do you mention computers?",
+    "Why do you mention Ted Cruz?",
     "What about computers worries you?",
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I am worried about one name: Ted Cruz",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "Only the weak say sorry",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
   "~*x I remember ~*y": [
-    "Do you often think of ~y?",
+    "Do you often think of Ted Cruz?",
     "Does thinking of ~y bring anything else to mind?",
     "What else do you remember?",
     "Why do you recall ~y right now?",
@@ -68,7 +68,7 @@ var rules = {
     "Suppose you got ~y soon.",
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
+    "You need Ted Cruz?",
     "Why do you need ~y?",
     "Suppose you got ~y soon.",
   ],
